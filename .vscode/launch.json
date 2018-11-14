@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyChain",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.vilma.MyChain",
+            "args": "",
+            "projectName": "blockchain"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chain",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.vilma.Chain",
+            "args": "",
+            "projectName": "blockchain"
+        }
+    ]
+}
